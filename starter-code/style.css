@@ -53,3 +53,8 @@ a:hover{
  		background-color: #808080;
  		text-align: center;
 		}
+
+	img {
+		width: 150px;
+		height: 200px;
+		}
